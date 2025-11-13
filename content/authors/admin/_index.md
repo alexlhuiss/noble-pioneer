@@ -37,7 +37,7 @@ profiles:
     url: 'mailto:alexandre.lhuisset@inrae.fr'
     label: E-mail Me
   - icon: brands/github
-    url: https://github.com/alexjohnsonai
+    url: https://github.com/alexlhuiss
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/alexandre-lhuisset-368b3b1a3
   - icon: academicons/google-scholar
