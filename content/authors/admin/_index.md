@@ -46,9 +46,11 @@ profiles:
     url: https://orcid.org/my-orcid?orcid=0009-0009-5357-5573
 
 interests:
-  - Insurance Markets
+  - Game Theory
   - Decision Theory
+  - Insurance Markets
   - Reinforcement Learning
+
 
 education:
   - area: Master Econometrics & Statistics
