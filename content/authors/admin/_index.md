@@ -140,13 +140,7 @@ skills:
         icon: book-open
 
 
-languages:
-  - name: French
-    percent: 100
-  - name: English
-    percent: 75
-
-design:
+- design:
     background:
       image:
         # Name of image in `assets/media/`.
