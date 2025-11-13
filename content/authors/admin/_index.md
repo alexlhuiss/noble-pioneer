@@ -27,7 +27,7 @@ role: PhD Student in AI applied to Economics
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: MIAT INRAE
+  - name: MIAT (INRAE) - DecA
     url: https://miat.inrae.fr/
 
 # Social network links
@@ -153,7 +153,7 @@ languages:
 # Biography (replaces the Alex Johnson placeholder)
 ---
 
-I am a PhD student in Artificial Intelligence applied to Economics at MIAT INRAE. My research focuses on decision-making under risk, insurance markets, and the use of AI tools to model heterogeneous behaviors in economic and environmental settings. I combine econometrics, machine learning, and game theory to study how agents respond to uncertainty and how public policy can be improved through predictive and behavioral modeling.
+I am a PhD student in mathematics/AI applied to Economics. I am affiliated to [MIAT](https://miat.inrae.fr/) within the DecA (Decision-making Agents) team.
 
-My main research project involves modeling interactions between the State, insurers, and forest managers, as well as studying risk perception and behavior in forestry. I have a strong interest in applying AI to real-world policy challenges.
+My main research project involves modeling interactions between the State, insurers, and forest managers into a game. My research is conducted under the supervision of [Régis Sabbadin](https://miat.inrae.fr/member/sabbadinregis/), with co-advisors [Stéphane Couture](https://miat.inrae.fr/member/couturestephane/) and [Meritxell Vinyals](https://sites.google.com/site/meritxellvinyals).
 
