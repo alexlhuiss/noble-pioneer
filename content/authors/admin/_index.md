@@ -73,7 +73,7 @@ education:
     institution: Toulouse School of Economics
     icon: ""
     date_start: 2022-09-01
-    date_end: 2025-09-01
+    date_end: 2023-09-01
     summary: |
       Multidisciplinary training combining economics, statistics, and computer science.
 
