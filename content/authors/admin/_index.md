@@ -159,7 +159,7 @@ languages:
 # Biography (replaces the Alex Johnson placeholder)
 ---
 
-Alexandre Lhuisset is a PhD Student in Artificial Intelligence applied to Economics at MIAT INRAE. His research focuses on decision-making under risk, insurance markets, and the use of AI tools to model heterogeneous behaviors in economic and environmental settings. He combines econometrics, machine learning, and game theory to study how agents respond to uncertainty and how public policy can be improved through predictive and behavioral modeling.
+I am a PhD student in Artificial Intelligence applied to Economics at MIAT INRAE. My research focuses on decision-making under risk, insurance markets, and the use of AI tools to model heterogeneous behaviors in economic and environmental settings. I combine econometrics, machine learning, and game theory to study how agents respond to uncertainty and how public policy can be improved through predictive and behavioral modeling.
 
-His main working project consists in the modeling of interactions between the State, insurers, and forest managers, as well as studying risk perception and behavior in forestry. He has a strong interest in applying AI to real-world policy problems.
+My main research project involves modeling interactions between the State, insurers, and forest managers, as well as studying risk perception and behavior in forestry. I have a strong interest in applying AI to real-world policy challenges.
 
