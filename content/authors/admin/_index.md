@@ -123,10 +123,6 @@ skills:
         description: ''
         percent: 100
         icon: chart-bar
-      - name: Machine Learning
-        description: 'Classification, regression, anomaly detection, clustering, model evaluation'
-        percent: 100
-        icon: chart-bar
 
 
   - name: Hobbies
