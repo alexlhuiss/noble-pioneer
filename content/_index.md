@@ -29,12 +29,12 @@ sections:
         padding: ['0', '80px', '0', '0']
       css: |
         section[data-block="resume-biography-3"] .grid {
-          gap: 2.5rem;          /* espace général entre les colonnes/éléments */
+          gap: 5rem;          /* espace général entre les colonnes/éléments */
         }
 
         @media (min-width: 1024px) {
           section[data-block="resume-biography-3"] .grid {
-            column-gap: 4rem;   /* encore plus d'espace entre gauche/droite sur grand écran */
+            column-gap: 10rem;   /* encore plus d'espace entre gauche/droite sur grand écran */
           }
         }
   - block: markdown
