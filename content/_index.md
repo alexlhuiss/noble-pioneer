@@ -26,7 +26,7 @@ sections:
       background:
         image:
           filename: stacked-peaks.svg
-        spacing:
+      spacing:
         # top, right, bottom, left
         padding: ['80px', '0', '80px', '0']
   - block: markdown
