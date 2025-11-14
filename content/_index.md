@@ -6,7 +6,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: '20rem'
+  spacing: '6rem'
 
 sections:
   - block: resume-biography-3
@@ -16,7 +16,7 @@ sections:
       text: ''
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: Download CV
+        text: Full CV
         url: uploads/resume.pdf
       headings:
         about: ''
@@ -26,9 +26,9 @@ sections:
       background:
         image:
           filename: stacked-peaks.svg
-      #spacing:
+      spacing:
         # top, right, bottom, left
-        #padding: ['0', '80px', '0', '0']
+        padding: ['0', '80px', '0', '0']
   - block: markdown
     content:
       title: 'Collaborate'
