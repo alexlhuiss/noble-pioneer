@@ -28,15 +28,13 @@ sections:
       spacing:
         padding: ['0', '80px', '0', '0']
       css: |
-        section[data-block="resume-biography-3"] .grid {
-          gap: 5rem;          /* espace général entre les colonnes/éléments */
-        }
-
+        /* language=css */
         @media (min-width: 1024px) {
-          section[data-block="resume-biography-3"] .grid {
-            column-gap: 10rem;   /* encore plus d'espace entre gauche/droite sur grand écran */
+          .grid {
+            column-gap: 10rem;
           }
         }
+
   - block: markdown
     content:
       title: 'Collaborate'
