@@ -28,7 +28,7 @@ sections:
           filename: stacked-peaks.svg
       spacing:
         # top, right, bottom, left
-        padding: ['80px', '0', '80px', '0']
+        padding: ['0', '80px', '0', '0']
   - block: markdown
     content:
       title: 'Collaborate'
