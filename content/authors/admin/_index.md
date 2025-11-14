@@ -1,7 +1,8 @@
 ---
 # Display name
-title: Alexandre   
-Lhuisset
+title: |
+  Alexandre
+  Lhuisset
 
 # Name pronunciation (optional)
 name_pronunciation: 'a.lɛk.sɑ̃dʁ lɥi.sɛ'
